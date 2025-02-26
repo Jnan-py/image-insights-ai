@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+google-generativeai
+langchain_google_genai
+langchain_text_splitters
+langchain_community
+faiss-cpu
+streamlit-option-menu
+Pillow
+requests
+plotly
+matplotlib
+numpy
